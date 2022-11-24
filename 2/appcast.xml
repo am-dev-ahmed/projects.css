@@ -43,10 +43,10 @@
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
     <item>
-        <title>Version 1.0.0+6</title>
+        <title>Version 1.0.1</title>
         <description>Minor updates and improvements.</description>
         <pubDate>Thur, 24 Nov 24 12:00:00 +0000</pubDate>
-        <enclosure url="https://play.google.com/apps/internaltest/4701148409110414958" sparkle:version="1.0.0+6" sparkle:os="android" />
+        <enclosure url="https://play.google.com/apps/internaltest/4701148409110414958" sparkle:version="1.0.1" sparkle:os="android" />
     </item>
   </channel>
 </rss>
